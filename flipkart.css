@@ -365,3 +365,20 @@ h4 {
     color: #000;
 
 }
+.getapp{
+    margin-top: 0.5rem;
+}
+
+
+.stay{
+    margin-top: 0.7rem;
+}
+
+.stay a{
+    color: #fff;
+}
+
+.get-icon i{
+    padding-right:  0.5rem;
+    color: #fff;
+}
